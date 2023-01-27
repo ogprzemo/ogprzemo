@@ -8,7 +8,7 @@ I'm junior developer and graphic designer!
     
 Languages and Tools:
 
-[lua python java c# c++ figma ](https://www.python.org/)
+[lua] 
 
 <!--
 **Przems0n711/Przems0n711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
