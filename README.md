@@ -5,9 +5,6 @@ Hi 👋, I'm Przemo
 I'm junior developer and graphic designer!
 
     🌱 I’m currently learning lua
-    
-    [![React](https://img.shields.io/badge/React-16.13.1-brightgreen)](https://reactjs.org/)
-   
 <!--
 **Przems0n711/Przems0n711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
