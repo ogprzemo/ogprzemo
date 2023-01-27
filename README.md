@@ -5,11 +5,7 @@ Hi 👋, I'm Przemo
 I'm junior developer and graphic designer!
 
     🌱 I’m currently learning lua
-    
-Languages and Tools:
-
-https://www.python.org/
-
+   
 <!--
 **Przems0n711/Przems0n711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
