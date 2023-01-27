@@ -1,16 +1,14 @@
 ### Przems0n711
 
 Hi 👋, I'm Przemo
+
 I'm junior developer and graphic designer!
 
     🌱 I’m currently learning lua
-
-Connect with me:
-
-lewkrajeszczak krajeszczak
+    
 Languages and Tools:
 
-illustrator javascript linux mysql photoshop python unreal 
+lua python java c# c++ figma 
 
 <!--
 **Przems0n711/Przems0n711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
