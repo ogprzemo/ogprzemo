@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Przemo</h1>
 <h3 align="center">I'm Stuff Developer</h3>
 
+![](https://miro.medium.com/v2/resize:fit:640/1*ZXQifyIny_o2bFmz1BBz3A.gif)
+
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Kashy16674997" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" width="80" /></a>
