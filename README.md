@@ -1,8 +1,6 @@
 ### Przems0n711
 <h1 align="center">Hi 👋, I'm Przemo</h1>
-<h3 align="center">I'm Stuff Developer</h3>
-
-![](https://miro.medium.com/v2/resize:fit:640/1*ZXQifyIny_o2bFmz1BBz3A.gif)
+<h3 align="center">I'm Stuff Developer</h3>             ![](https://miro.medium.com/v2/resize:fit:640/1*ZXQifyIny_o2bFmz1BBz3A.gif)
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
