@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Przemo</h1>
 <h3 align="center">I'm Stuff Developer</h3>  
 
-![]([name-of-giphy.gif](https://im.ezgif.com/tmp/ezgif-1-a3875e0699.gif))
+![](https://im.ezgif.com/tmp/ezgif-1-a3875e0699.gif)
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
