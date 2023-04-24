@@ -1,8 +1,6 @@
 ### Przems0n711
-<h1 align="center">Hi 👋, I'm Przemo</h1>
-<h3 align="center">I'm Stuff Developer</h3>  
-
-![](https://im.ezgif.com/tmp/ezgif-1-405b5c350f.gif)
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Przemo</h1>
+<img align="right" alt="Coding" width="400" src="https://im.ezgif.com/tmp/ezgif-1-405b5c350f.gif"
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
