@@ -35,14 +35,11 @@
 	
 </div>
 
-<p><h1 align="left"> <strong>T O O L S</strong></h1>
-<div>
-<br> <br><br><br>
 <p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
 <p align="left" >
 <div style="margin-left: 100px;">
 
-[![spotify-github-profile][![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjyknws2tbexzhnmg6q8rqdk7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=mjyknws2tbexzhnmg6q8rqdk7&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjyknws2tbexzhnmg6q8rqdk7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=mjyknws2tbexzhnmg6q8rqdk7&redirect=true)
 <img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
 </div>
 <br> <br><br><br>
