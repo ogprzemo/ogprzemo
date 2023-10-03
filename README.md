@@ -6,7 +6,7 @@
 <p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
 <p><br>
 <emphasis>B A C K &nbsp; E N D &nbsp;  D E V E L O P E R&nbsp;
-<br> P A S S I O N A T E  &nbsp; O F &nbsp; C Y B E R &nbsp; S E C U R I T Y.
+<br> P A S S I O N A T E  &nbsp; O F &nbsp; C Y B E R &nbsp; S E C U R I T Y
 </p>
 <p>
 <br> <br>
