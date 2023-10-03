@@ -1,11 +1,62 @@
-### Przems0n711
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Przemo</h1>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-<h3 align="left">Contact with me:</h3>
-<p align="left"> 
-<a href="https://x.com/Kashy16674997" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683325380441128960/yRsRRjGO_400x400.jpg" height="60" width="60" /></a>
+<h1><strong>H I</strong></h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="archlinux" width="80" height="40"/></a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" width="80" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" width="80" height="40"/> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali" width="80" height="40"/> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="80" height="40"/> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="80" height="40"/> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" width="80" height="40"/> <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="80" height="40"/> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" width="80" height="40"/>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white" alt="C++" width="80" height="40" />
+<br>
+<br>
+<p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
+<p><br>
+<emphasis>B A C K &nbsp; E N D &nbsp;  D E V E L O P E R&nbsp;
+<br> P A S S I O N A T E  &nbsp; O F &nbsp; C Y B E R &nbsp; S E C U R I T Y.
+</p>
+<p>
+<br> <br>
+<div>
+<img align="left" height:75%; width:75; src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
+
+ <p align="right">
+
+- I'm learning Python and C++ right now.</a>
+
+- I am ready for job offers.
+
+- How to contact me  **u35_przbrz_waw@technischools.com**
+
+</div>
+<br><br>
+<div>
+<br><br><br><br><br><br>
+<p><h1><strong>S T A T S</strong> </h1></p>
+<div align="left">
+
+
+
+![STATS](https://github-readme-stats.vercel.app/api?username=Przems0n711&show_icons=true&theme=radical)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Przems0n711&theme=radical)
+	
+</div>
+
+<p><h1 align="left"> <strong>T O O L S</strong></h1>
+<div>
+<br> <br><br><br>
+<p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
+<p align="left" >
+<div style="margin-left: 100px;">
+
+[![spotify-github-profile][![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjyknws2tbexzhnmg6q8rqdk7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=mjyknws2tbexzhnmg6q8rqdk7&redirect=true)
+<img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
+</div>
+<br> <br><br><br>
+<h1 align="center"><strong> Connect with me </h1></strong>
+
+<p align="center">
+
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+ <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/przemys%C5%82aw-brzuzy-428001292/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Przems0n711">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Kashy16674997">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
+      </div>
+</p>
