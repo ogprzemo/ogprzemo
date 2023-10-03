@@ -54,6 +54,5 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Kashy16674997">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
       </div>
 </p>
