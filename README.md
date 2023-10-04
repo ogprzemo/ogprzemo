@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong><a href="https://twitter.com/Kashy16674997">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/przemys%C5%82aw-brzuzy-428001292/">LinkedIn</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/przemys%C5%82aw-brzuzy-428001292/">LinkedIn</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on some python projects :p</p>
