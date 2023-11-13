@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://sapient.kupyn.dev"><img src="todoroki-shoto-my-hero-academia.gif" alt="Banner"></a>
-</p>
 
 <h1 align="center">Hi, I'm Przemysław Brzuzy</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile :> </h1>
