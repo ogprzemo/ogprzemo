@@ -10,4 +10,4 @@
   <strong><a href="https://www.linkedin.com/in/przemys%C5%82aw-brzuzy-428001292/">LinkedIn</a></strong>
 </p>
 
-<p align="center">I'm currently working on malicoreAI</p>
+<p align="center">I'm currently learning Golang</p>
