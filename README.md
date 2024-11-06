@@ -1,13 +1,12 @@
+<h1 align="center">Hi 👋, I'm Przemysław Brzuzy</h1>
 
-<h1 align="center">Hi, I'm Przemysław Brzuzy</a>!</h1>
+- 🥇 I’m currently learning Go
 
-<p align="center">
-  <a href="https://github.com/ogprzemo"><img src="https://github-readme-stats.vercel.app/api?username=ogprzemo&hide_border=true&show_icons=true" alt="Przemo's github stats"></a>
-</p>
+- 📫 How to reach me **u35_przbrz_waw@technischools.com**
 
-<p align="center">
-  <strong><a href="https://twitter.com/Kashy16674997">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/przemys%C5%82aw-brzuzy-428001292/">LinkedIn</a></strong>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,js,python,svelte,ubuntu,linux,tensorflow,git,flask)](https://skillicons.dev)
 
-<p align="center">I'm currently learning Golang</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananaseke&show_icons=true&locale=en&layout=compact" alt="ananaseke" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananaseke&" alt="ananaseke" /></p>
