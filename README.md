@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Przemysław Brzuzy</h1>
 
-- 🥇 I’m currently learning Go
+- 🥇 I’m currently learning Go and Svelte
 
 - 📫 How to reach me **u35_przbrz_waw@technischools.com**
 
